@@ -1,6 +1,15 @@
-# Nuxt 3 Minimal Starter
+# Nuxt3 Products Showcase
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This repository demonstrates a simple Nuxt3 application showcasing a list of products fetched from an external API. It includes a responsive product grid, server-side API routes, and currency conversion functionality. Check it at Netlify: https://nuxt-introduction-web.netlify.app/
+
+## Features
+
+- Nuxt3: A powerful framework for building modern Vue.js applications
+- Fetch products from a public API (https://fakestoreapi.com/products)
+- Reusable `ProductCard` and `ProductDetails` components
+- Responsive grid layout for displaying products
+- Server-side API route for fetching currency conversion data
+- Currency conversion functionality
 
 ## Setup
 
